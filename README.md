@@ -40,4 +40,4 @@ A Lovelace custom panel for managing and previewing `custom:area-dashboard-strat
 - If you previously installed a manual copy under `/config/www`, remove old files/resources to avoid duplicates.
 
 ---
-MIT © 2025 Matt Pregent
+MIT © 2025 @SurfWeb Technology
