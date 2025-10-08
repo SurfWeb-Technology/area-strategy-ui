@@ -28,12 +28,9 @@ A Lovelace custom panel for managing and previewing `custom:area-dashboard-strat
        url_path: area-strategy-ui
    ```
 
-## Versioning
-- Current version: **v2.2.0**
+## Version
+- Current version: **v2.2.2**
 - To release a new version:
-  1. Bump `VERSION` in `area-strategy-ui.loader.js` and `ASUI_VERSION` in `area-strategy-ui.core.js`.
-  2. Commit and push to GitHub.
-  3. Create a GitHub Release with tag `vX.Y.Z`. Users will get the update through HACS.
 
 ## Notes
 - Files are served by HA at `/hacsfiles/area-strategy-ui/`.
